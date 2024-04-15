@@ -1,13 +1,13 @@
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
 
 ### Aim :
-      To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
+To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
       
 ### Equipment Required: 
-      Instrial manipulator , teach pendant and associated program platform 
+Instrial manipulator , teach pendant and associated program platform 
       
 ### Theory 
-    The following interpolation schemes are available in most of the robot controllers.
+The following interpolation schemes are available in most of the robot controllers.
 1. Joint interpolation
 2. Straight line interpolation
 3. Circular interpolation
@@ -27,47 +27,26 @@ robot’s workspace. This is done by specifying three points that lie along the 
 #### Manual lead through Programming: 
 When the manipulator wrist is moved by the programmer to teach, the movements consist of combination of smooth motion segments. These segments are sometimes approximately straight lines or curves or back and forth motions. These movements are referred as irregular smooth motions and an interpolation is involved to achieve them.
 
-
-
-
 ![Robot-interpolation-PTP-LIN-CIRC](https://user-images.githubusercontent.com/36288975/201615171-d0886aaa-8220-4b0c-8a1d-3d8a5c69c76a.png)
 
 ### Figure -01 difference between P-P , joint and linear interpolation 
+ 
+DART studio screen shots for linear interpolation and joint interpolation
 
-
-### Program : 
-DART studio screen shots for linear interpolation 
-
-
-
-
-
-
-
-
-
-DART studio screen shots for joint interpolation 
-
-
-
-
-
-
-
+![WhatsApp Image 2024-04-15 at 14 31 08_d6fff372](https://github.com/SamyukthaSreenivasan/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/119475703/6b34ff46-7656-4900-b9b6-e655189cbb6d)
 
 ### Robot movements 
+![WhatsApp Image 2024-04-15 at 14 31 09_796a3d90](https://github.com/SamyukthaSreenivasan/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/119475703/34a45256-94d0-46b1-9944-4711e2f5e31c)
 
-
-
-
-
-
-
-
-
-
-
-
-
+![WhatsApp Image 2024-04-15 at 14 31 09_1a3f2597](https://github.com/SamyukthaSreenivasan/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/119475703/aa41a4b0-4eb7-4360-9981-55ecad2e0c0b)
 
 ### Results:  
+Thus,linear and joint interpolation of industrial manipulator and program is executed. 
+
+
+
+
+
+
+
+
